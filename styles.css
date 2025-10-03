@@ -1,8 +1,12 @@
-nav{
+name{
     background-color: blanchedalmond;
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+simple_duck{
+    display: flex;
 }
 
 body{
