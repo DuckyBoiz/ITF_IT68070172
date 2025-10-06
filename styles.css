@@ -13,9 +13,33 @@ body{
     margin: 0;
 }
 
-balance_information{
-    background-color: aliceblue;
-    align-items: center;
-    display: grid;
-    justify-content: space-around;
+information_section{
+    display: flex;
+    justify-content: space-evenly;
+    
+    Acc_info{
+        background-color: aquamarine;
+        display: flex;
+        justify-content: space-around;
+
+        Acc_pic{
+            display: flex;
+        }
+    }
+
+    balance_information{
+        background-color: honeydew;
+        display: flex;
+        justify-content: space-around;
+
+        balance_pic{
+            display: flex;
+        }
+    }
+
+    bankOPE{
+        background-color: darkkhaki;
+        display: flex;
+        justify-content: space-around;
+    }
 }
