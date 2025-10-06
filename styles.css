@@ -42,4 +42,9 @@ information_section{
         display: flex;
         justify-content: space-around;
     }
+
+    finan_tools{
+        background-color: cadetblue;
+        display: flex;
+    }
 }
