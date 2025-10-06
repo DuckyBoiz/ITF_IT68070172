@@ -12,3 +12,10 @@ simple_duck{
 body{
     margin: 0;
 }
+
+balance_information{
+    background-color: aliceblue;
+    align-items: center;
+    display: grid;
+    justify-content: space-around;
+}
